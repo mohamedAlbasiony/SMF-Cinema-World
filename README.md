@@ -30,7 +30,7 @@ A modern, responsive, and interactive landing page built for **SMF T.V**, an IPT
 
 Check out the live website: [SMF T.V Live Demo]([https://YOUR-USERNAME.github.io/YOUR-REPOSITORY-NAME/](https://mohamedalbasiony.github.io/SMF-Cinema-World/))
 
-*(Replace the link above with your actual GitHub Pages URL)*
+*([Replace the link above with your actual GitHub Pages URL](https://mohamedalbasiony.github.io/SMF-Cinema-World/))*
 
 ---
 
